@@ -11,6 +11,8 @@
 
 //CODE HERE
 
+let gitDefinition = `GIT is a version control system that allows you to track your changes and saved coding projects`
+
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,6 +20,8 @@
 */
 
 //CODE HERE
+
+let gitHubDefinition = `GitHub is a website that allows you to upload and download your git repositories, think of it as icloud for your coding repositories.`
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -27,6 +31,9 @@
 
 //CODE HERE
 
+let gitInitDefinition = `gitInit alllows you to initialize where you want your code to be saved to on your github account`
+
+
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -35,6 +42,9 @@
 
 //CODE HERE
 
+
+let gitCloneDefinition = `allows you to copy or clone your existing repository in a new directory`
+
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,6 +52,9 @@
 */
 
 //CODE HERE
+
+let gitStatusDefinition = `gitstatus gives you the information you need about the repository youre working on`
+
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -54,6 +67,11 @@
 
 //CODE HERE
 
+let gitAddDefinition = ``
+
+let gitAddCode = ``
+
+
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -65,6 +83,10 @@
 
 //CODE HERE
 
+let gitCommitDefinition = ``
+
+let gitCommitCode = ``
+
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +95,5 @@
 */
 
 //CODE HERE
+
+let gitPushDefinition = ``
