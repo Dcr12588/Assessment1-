@@ -31,7 +31,7 @@ let gitHubDefinition = `GitHub is a website that allows you to upload and downlo
 
 //CODE HERE
 
-let gitInitDefinition = `gitInit alllows you to initialize where you want your code to be saved to on your github account`
+let gitInitDefinition = `gitInit alllows you to initialize where you want your code to be saved to on your github account` ` git init`
 
 
 //////////////////PROBLEM 4////////////////////
@@ -43,7 +43,7 @@ let gitInitDefinition = `gitInit alllows you to initialize where you want your c
 //CODE HERE
 
 
-let gitCloneDefinition = `allows you to copy or clone your existing repository in a new directory`
+let gitCloneDefinition = `allows you to copy or clone your existing repository in a new directory` `git clone`
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -53,7 +53,7 @@ let gitCloneDefinition = `allows you to copy or clone your existing repository i
 
 //CODE HERE
 
-let gitStatusDefinition = `gitstatus gives you the information you need about the repository youre working on`
+let gitStatusDefinition = `gitstatus gives you the information you need about the repository youre working on` ` git status`
 
 
 //////////////////PROBLEM 6////////////////////
@@ -67,9 +67,9 @@ let gitStatusDefinition = `gitstatus gives you the information you need about th
 
 //CODE HERE
 
-let gitAddDefinition = ``
+let gitAddDefinition = `GIT add allows you to add your files to be tracked in your repository`
 
-let gitAddCode = ``
+let gitAddCode = `git add .`
 
 
 //////////////////PROBLEM 7////////////////////
@@ -83,9 +83,9 @@ let gitAddCode = ``
 
 //CODE HERE
 
-let gitCommitDefinition = ``
+let gitCommitDefinition = `git commit allows you to create a snapshot of the files you wish to track and label it` 
 
-let gitCommitCode = ``
+let gitCommitCode = `git commmit -m "message"`
 
 
 //////////////////PROBLEM 8////////////////////
@@ -96,4 +96,4 @@ let gitCommitCode = ``
 
 //CODE HERE
 
-let gitPushDefinition = ``
+let gitPushDefinition = `git push allows youb to upload your local repository content to a remot repository of choice` ` git push `
