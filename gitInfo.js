@@ -85,7 +85,7 @@ let gitAddCode = `git add .`
 
 let gitCommitDefinition = `git commit allows you to create a snapshot of the files you wish to track and label it` 
 
-let gitCommitCode = `git commmit -m "message"`
+let gitCommitCode = `git commmit -m "initial commit"`
 
 
 //////////////////PROBLEM 8////////////////////
