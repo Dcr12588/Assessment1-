@@ -28,6 +28,8 @@ let lovesCode = true
 
 // //CODE HERE
 
+
+// Checking idf faveNum is equal to 13 and if so i am logging a success message and if not i will log an unsuccess message
 if (faveNum === 13){
   console.log(`Lucky 13`)
 } else {
@@ -40,6 +42,8 @@ if (faveNum === 13){
 */
 
 //CODE HERE
+
+// Writing out my faveNum 5 times using a for loop
 
 for (let i = 0; i < 5; i++) {
   console.log(faveNum)
