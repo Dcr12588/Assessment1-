@@ -3,7 +3,7 @@
 
 // //CODE HERE 
 
-// let myName = "DannyRamirez"
+let myName = "DannyRamirez"
 
 // //////////////////PROBLEM 2////////////////////
 // /* Create a variable called 'faveNum' with a value that is your favorite number. */
@@ -17,7 +17,7 @@ let faveNum = 11
 
 // //CODE HERE
 
-// let lovesCode = true
+let lovesCode = true
 
 // //////////////////PROBLEM 4////////////////////
 // /*
@@ -41,6 +41,6 @@ if (faveNum === 13){
 
 //CODE HERE
 
-// for (let i = 0; i < 5; i++) {
-//   console.log(faveNum)
-// }
+for (let i = 0; i < 5; i++) {
+  console.log(faveNum)
+}
